@@ -1,6 +1,11 @@
 # Twitter Clone: NextJS, Tailwind, Sanity, TypeScript, NextAuth
 
-This project is a twitter clone built using NextJS.
+This project is a twitter clone built using NextJS and follows best practices wherever pssobile.
+
+# Scope
+- How to add data to a Sanity CMS Backend from the frontend using Mutations!
+- How to Query data using the popular GROQ query language 
+
 
 ## Deploy your own
 
